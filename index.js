@@ -13,4 +13,4 @@ const addEl = function () {
   document.body.appendChild(newBox);
 };
 
-getBtn.addEventListener("click", addEl);
+getBtn.addEventListener("click", addEl); 
